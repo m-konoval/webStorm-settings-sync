@@ -4,6 +4,7 @@
     <option name="selectedTheme" value="ONE_DARK" />
     <option name="accentColor" value="7CB342" />
     <option name="statusBarTheme" value="false" />
+    <option name="isMaterialTheme" value="false" />
     <option name="isCompactStatusBar" value="true" />
   </component>
 </application>
