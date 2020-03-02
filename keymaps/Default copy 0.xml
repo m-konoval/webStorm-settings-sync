@@ -3,6 +3,7 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
+  <action id="Arrangement.Rule.Edit" />
   <action id="CloseActiveTab">
     <keyboard-shortcut first-keystroke="shift w" />
   </action>
@@ -18,11 +19,15 @@
   </action>
   <action id="EditorSelectWord" />
   <action id="FileChooser.GotoDesktop" />
+  <action id="GotoNextError" />
   <action id="NewDir">
     <keyboard-shortcut first-keystroke="alt n" />
   </action>
   <action id="NewFile">
     <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="f2" />
   </action>
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="shift ctrl alt e" />
@@ -44,5 +49,6 @@
   </action>
   <action id="Uml.ShowDiff" />
   <action id="Vcs.Log.ShowDiff" />
+  <action id="XDebugger.SetValue" />
   <action id="openAssertEqualsDiff" />
 </keymap>
