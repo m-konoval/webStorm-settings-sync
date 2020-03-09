@@ -6,8 +6,8 @@
   </action>
   <action id="Arrangement.Rule.Edit" />
   <action id="ChangesView.Diff" />
-  <action id="CloseActiveTab">
-    <keyboard-shortcut first-keystroke="shift ctrl f4" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="CompareTwoFiles" />
