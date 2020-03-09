@@ -31,6 +31,9 @@
   </action>
   <action id="SendEOF" />
   <action id="ShelvedChanges.Diff" />
+  <action id="Synchronize">
+    <keyboard-shortcut first-keystroke="alt y" />
+  </action>
   <action id="ToggleBookmark" />
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="f11" />
