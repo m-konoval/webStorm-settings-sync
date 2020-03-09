@@ -4,6 +4,7 @@
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
+  <action id="Arrangement.Rule.Edit" />
   <action id="ChangesView.Diff" />
   <action id="CloseActiveTab">
     <keyboard-shortcut first-keystroke="shift ctrl f4" />
@@ -14,7 +15,16 @@
   <action id="Diff.UpdatedFiles" />
   <action id="EditorDuplicate" />
   <action id="EditorSelectWord" />
+  <action id="ExpressionTypeInfo" />
   <action id="FileChooser.GotoDesktop" />
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
+  <action id="GotoNextError" />
   <action id="GotoTest" />
   <action id="Images.ShowThumbnails" />
   <action id="NewDir">
@@ -23,8 +33,15 @@
   <action id="NewFile">
     <keyboard-shortcut first-keystroke="alt n" />
   </action>
+  <action id="ParameterInfo" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
+  </action>
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="shift ctrl alt e" />
   </action>
   <action id="SelectNextOccurrence">
     <keyboard-shortcut first-keystroke="ctrl d" />
@@ -40,5 +57,6 @@
   </action>
   <action id="Vcs.Log.ShowDiff" />
   <action id="XDebugger.CopyWatch" />
+  <action id="XDebugger.SetValue" />
   <action id="openAssertEqualsDiff" />
 </keymap>
