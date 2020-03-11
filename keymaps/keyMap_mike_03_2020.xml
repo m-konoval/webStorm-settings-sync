@@ -39,6 +39,9 @@
   <action id="NewFile">
     <keyboard-shortcut first-keystroke="alt n" />
   </action>
+  <action id="OpenInBrowser">
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
   <action id="ParameterInfo" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="f2" />
