@@ -1,6 +1,5 @@
 <code_scheme name="_mike_code style">
   <TypeScriptCodeStyleSettings>
-    <option name="ALIGN_OBJECT_PROPERTIES" value="2" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
   </TypeScriptCodeStyleSettings>
   <codeStyleSettings language="JavaScript">
