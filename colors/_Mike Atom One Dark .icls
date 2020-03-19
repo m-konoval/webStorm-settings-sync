@@ -1,19 +1,26 @@
 <scheme name="_Mike Atom One Dark " version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.0" />
+  <option name="FONT_SCALE" value="1.25" />
   <metaInfo>
     <property name="created">2020-03-11T14:42:39</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.1.5.0.0</property>
-    <property name="modified">2020-03-11T14:47:15</property>
+    <property name="modified">2020-03-19T11:37:57</property>
     <property name="originalScheme">Atom One Dark copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="16" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Consolas" />
+    <option name="EDITOR_FONT_SIZE" value="20" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Fira Code" />
+    <option name="EDITOR_FONT_SIZE" value="20" />
+  </font>
+  <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
-  <option name="CONSOLE_FONT_SIZE" value="14" />
+  <option name="CONSOLE_FONT_SIZE" value="18" />
   <option name="CONSOLE_LIGATURES" value="true" />
   <option name="CONSOLE_LINE_SPACING" value="1.4" />
-  <option name="EDITOR_FONT_NAME" value="Consolas" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="98c379" />
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
