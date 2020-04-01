@@ -1,4 +1,7 @@
 <keymap version="1" name="keyMap_mike_03_2020" parent="$default">
+  <action id="AceAction">
+    <keyboard-shortcut first-keystroke="shift enter" />
+  </action>
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
@@ -15,6 +18,10 @@
   </action>
   <action id="CollapseAll">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
+  </action>
+  <action id="CollapseExpandableComponent">
+    <keyboard-shortcut first-keystroke="ctrl subtract" />
+    <keyboard-shortcut first-keystroke="ctrl minus" />
   </action>
   <action id="CollapseRegion">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
@@ -33,8 +40,13 @@
     <keyboard-shortcut first-keystroke="ctrl equals" />
   </action>
   <action id="EditorSelectWord" />
+  <action id="EditorStartNewLine" />
   <action id="ExpandAll">
     <keyboard-shortcut first-keystroke="ctrl add" />
+  </action>
+  <action id="ExpandExpandableComponent">
+    <keyboard-shortcut first-keystroke="ctrl add" />
+    <keyboard-shortcut first-keystroke="ctrl equals" />
   </action>
   <action id="ExpandRegion">
     <keyboard-shortcut first-keystroke="ctrl add" />
@@ -66,6 +78,7 @@
   <action id="NewFile">
     <keyboard-shortcut first-keystroke="alt n" />
   </action>
+  <action id="OpenElementInNewWindow" />
   <action id="OpenFile">
     <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
