@@ -1,4 +1,5 @@
 <code_scheme name="_mike_code style">
+  <option name="RIGHT_MARGIN" value="1000" />
   <JSCodeStyleSettings>
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
