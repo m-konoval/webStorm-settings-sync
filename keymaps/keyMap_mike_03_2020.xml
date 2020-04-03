@@ -115,6 +115,9 @@
   </action>
   <action id="Uml.ShowDiff" />
   <action id="Vcs.Log.ShowDiff" />
+  <action id="ViewStatusBar">
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
   <action id="XDebugger.CopyWatch" />
   <action id="XDebugger.SetValue" />
   <action id="openAssertEqualsDiff" />
