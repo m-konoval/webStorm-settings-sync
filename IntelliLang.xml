@@ -30,5 +30,9 @@
       <display-name>todo-item/@v-for</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("v-for")).withParent(xmlTag().withLocalName(string().equalTo("todo-item")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
+    <injection language="VueJS" injector-id="xml">
+      <display-name>todo-item/@v-for</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("v-for")).withParent(xmlTag().withLocalName(string().equalTo("todo-item")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
   </component>
 </application>
