@@ -30,11 +30,9 @@
     <keyboard-shortcut first-keystroke="ctrl subtract" />
   </action>
   <action id="CompareTwoFiles" />
-  <action id="Console.Execute" />
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="Diff.UpdatedFiles" />
-  <action id="EditorChooseLookupItem" />
   <action id="EditorChooseLookupItemCompleteStatement" />
   <action id="EditorCompleteStatement" />
   <action id="EditorDecreaseFontSize">
@@ -43,7 +41,6 @@
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="shift ctrl d" />
   </action>
-  <action id="EditorEnter" />
   <action id="EditorIncreaseFontSize">
     <keyboard-shortcut first-keystroke="ctrl equals" />
   </action>
@@ -77,7 +74,6 @@
     <keyboard-shortcut first-keystroke="ctrl subtract" />
   </action>
   <action id="Images.ShowThumbnails" />
-  <action id="Images.Thumbnails.EnterAction" />
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="shift ctrl back_slash" />
   </action>
