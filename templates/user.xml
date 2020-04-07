@@ -4,4 +4,9 @@
       <option name="HTML_TEXT" value="true" />
     </context>
   </template>
+  <template name="vuei" value="import Vue from 'vue';&#10;import * from '*';&#10;&#10;Vue.use();&#10;&#10;export default  ;" description="base vue import" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
