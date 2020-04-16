@@ -2,7 +2,7 @@
   <component name="LineMarkerSettings">
     <option name="providers">
       <map>
-        <entry key="com.intellij.execution.lineMarker.RunLineMarkerProvider" value="true" />
+        <entry key="com.intellij.execution.lineMarker.RunLineMarkerProvider" value="false" />
       </map>
     </option>
   </component>

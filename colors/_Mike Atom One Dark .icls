@@ -4,7 +4,7 @@
     <property name="created">2020-03-11T14:42:39</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.1.5.0.0</property>
-    <property name="modified">2020-04-12T21:33:14</property>
+    <property name="modified">2020-04-16T17:40:01</property>
     <property name="originalScheme">Atom One Dark copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -52,7 +52,7 @@
     <option name="FILESTATUS_addedOutside" value="98c379" />
     <option name="FILESTATUS_changelistConflict" value="ff6347" />
     <option name="FILESTATUS_modifiedOutside" value="e5c17c" />
-    <option name="GUTTER_BACKGROUND" value="23262d" />
+    <option name="GUTTER_BACKGROUND" value="1c1c1e" />
     <option name="INDENT_GUIDE" value="37474f" />
     <option name="INFORMATION_HINT" value="282c34" />
     <option name="LINE_NUMBERS_COLOR" value="475f63" />
@@ -70,7 +70,7 @@
     <option name="NOTIFICATION_BACKGROUND" value="3d1a11" />
     <option name="NOT_CHANGED" value="979fad" />
     <option name="QUESTION_HINT" value="282c34" />
-    <option name="RIGHT_MARGIN_COLOR" value="2e3c43" />
+    <option name="RIGHT_MARGIN_COLOR" value="" />
     <option name="SELECTED_INDENT_GUIDE" value="57b6c2" />
     <option name="SELECTED_TEARLINE_COLOR" value="99b89d" />
     <option name="SELECTION_BACKGROUND" value="3e4451" />
@@ -542,6 +542,11 @@
     <option name="Class">
       <value>
         <option name="FOREGROUND" value="e5c17c" />
+      </value>
+    </option>
+    <option name="DART_INSTANCE_METHOD_DECLARATION">
+      <value>
+        <option name="FOREGROUND" value="64b3f6" />
       </value>
     </option>
     <option name="DEFAULT_ATTRIBUTE">
