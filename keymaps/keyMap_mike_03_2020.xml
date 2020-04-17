@@ -1,13 +1,23 @@
 <keymap version="1" name="keyMap_mike_03_2020" parent="$default">
+  <action id="AceAction">
+    <keyboard-shortcut first-keystroke="shift enter" />
+  </action>
+  <action id="AceLineAction">
+    <keyboard-shortcut first-keystroke="shift ctrl enter" />
+  </action>
   <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateRunToolWindow" />
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
-    <keyboard-shortcut first-keystroke="alt 2" />
+    <keyboard-shortcut first-keystroke="ctrl back_quote" />
   </action>
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="alt 3" />
   </action>
   <action id="Arrangement.Rule.Edit" />
+  <action id="Back">
+    <mouse-shortcut keystroke="button4" />
+  </action>
   <action id="ChangesView.Diff" />
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f4" />
@@ -16,13 +26,20 @@
   <action id="CollapseAll">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
   </action>
+  <action id="CollapseExpandableComponent">
+    <keyboard-shortcut first-keystroke="ctrl subtract" />
+    <keyboard-shortcut first-keystroke="ctrl minus" />
+  </action>
   <action id="CollapseRegion">
     <keyboard-shortcut first-keystroke="ctrl subtract" />
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
   <action id="CompareTwoFiles" />
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="Diff.UpdatedFiles" />
+  <action id="EditorChooseLookupItemCompleteStatement" />
+  <action id="EditorCompleteStatement" />
   <action id="EditorDecreaseFontSize">
     <keyboard-shortcut first-keystroke="ctrl minus" />
   </action>
@@ -33,15 +50,24 @@
     <keyboard-shortcut first-keystroke="ctrl equals" />
   </action>
   <action id="EditorSelectWord" />
+  <action id="EditorStartNewLine" />
   <action id="ExpandAll">
     <keyboard-shortcut first-keystroke="ctrl add" />
   </action>
+  <action id="ExpandExpandableComponent">
+    <keyboard-shortcut first-keystroke="ctrl add" />
+    <keyboard-shortcut first-keystroke="ctrl equals" />
+  </action>
   <action id="ExpandRegion">
     <keyboard-shortcut first-keystroke="ctrl add" />
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
   <action id="ExpressionTypeInfo" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.TogglePathShowing" />
+  <action id="Forward">
+    <mouse-shortcut keystroke="button5" />
+  </action>
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
@@ -66,10 +92,20 @@
   <action id="NewFile">
     <keyboard-shortcut first-keystroke="alt n" />
   </action>
+  <action id="NextTemplateVariable">
+    <keyboard-shortcut first-keystroke="tab" />
+  </action>
+  <action id="OpenElementInNewWindow" />
+  <action id="OpenFile">
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
+  </action>
   <action id="OpenInBrowser">
     <keyboard-shortcut first-keystroke="alt b" />
   </action>
   <action id="ParameterInfo" />
+  <action id="QuickChangeScheme">
+    <keyboard-shortcut first-keystroke="alt back_slash" />
+  </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
@@ -90,13 +126,29 @@
   <action id="Synchronize">
     <keyboard-shortcut first-keystroke="alt y" />
   </action>
+  <action id="SynchronizeCurrentFile">
+    <keyboard-shortcut first-keystroke="shift alt y" />
+  </action>
   <action id="ToggleBookmark" />
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="f11" />
   </action>
   <action id="Uml.ShowDiff" />
   <action id="Vcs.Log.ShowDiff" />
+  <action id="ViewNavigationBar">
+    <keyboard-shortcut first-keystroke="alt 4" />
+  </action>
+  <action id="ViewStatusBar">
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
   <action id="XDebugger.CopyWatch" />
   <action id="XDebugger.SetValue" />
+  <action id="emacsIDEAs.AceJump">
+    <keyboard-shortcut first-keystroke="alt m" />
+    <keyboard-shortcut first-keystroke="shift enter" />
+  </action>
+  <action id="emacsIDEAs.AceJumpWord">
+    <keyboard-shortcut first-keystroke="shift ctrl enter" />
+  </action>
   <action id="openAssertEqualsDiff" />
 </keymap>

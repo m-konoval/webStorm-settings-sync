@@ -7,5 +7,6 @@
     <ignoreAction name="Other/Flip ','" />
     <ignoreAction name="RegExp/Check RegExp" />
     <ignoreAction name="VueJS/Extract Vue Component" />
+    <ignoreAction name="XML/Expand Empty Tag" />
   </component>
 </application>

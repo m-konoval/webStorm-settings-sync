@@ -2,9 +2,17 @@
   <component name="MaterialThemeConfig">
     <option name="version" value="1.6.1" />
     <option name="selectedTheme" value="ONE_DARK" />
-    <option name="accentColor" value="7CB342" />
+    <option name="highlightColor" value="80cbc4" />
+    <option name="highlightThickness" value="3" />
+    <option name="isCustomTreeIndentEnabled" value="true" />
+    <option name="accentColor" value="7cb342" />
+    <option name="useProjectViewDecorators" value="false" />
+    <option name="compactSidebar" value="true" />
     <option name="statusBarTheme" value="false" />
-    <option name="isMaterialTheme" value="false" />
+    <option name="tabsHeight" value="22" />
     <option name="isCompactStatusBar" value="true" />
+    <option name="isCompactTables" value="true" />
+    <option name="customSidebarHeight" value="22" />
+    <option name="useMaterialFont" value="false" />
   </component>
 </application>
