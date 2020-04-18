@@ -11,7 +11,7 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="vueconfig" value="module.exports = {&#10;  css: {&#10;    loaderOptions: {&#10;      sass: {&#10;        /// need to have installed modules: &quot;node-sass sass-loader&quot;&#10;        prependData: `@import &quot;@/assets/styles/styles.scss&quot;`&#10;      }&#10;    }&#10;  }&#10;};&#10;" description="base vue.config.js" toReformat="true" toShortenFQNames="true">
+  <template name="vueconfig" value="module.exports = {&#10;  css: {&#10;    loaderOptions: {&#10;      sass: {&#10;        /// need to have installed modules: &quot;npm install --save-dev node-sass sass-loader&quot;&#10;        prependData: `@import &quot;@/assets/styles/style.scss&quot;`&#10;      }&#10;    }&#10;  }&#10;};&#10;" description="base vue.config.js" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JS_STATEMENT" value="true" />
     </context>
