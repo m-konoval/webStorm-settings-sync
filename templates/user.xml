@@ -11,7 +11,7 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="vueconfig" value="module.exports = {&#10;  css: {&#10;    loaderOptions: {&#10;      sass: {&#10;        /// need to have installed modules: &quot;npm install --save-dev node-sass sass-loader&quot;&#10;        prependData: `@import &quot;@/assets/scss/style.scss&quot;;`&#10;      }&#10;    }&#10;  }&#10;};&#10;" description="base vue.config.js" toReformat="true" toShortenFQNames="true">
+  <template name="vueconfig" value="module.exports = {&#10;  css: {&#10;    loaderOptions: {&#10;      sass: {&#10;        /// need to have installed modules: &quot;npm install --save-dev node-sass sass-loader&quot;&#10;        /*&#10;         * include only $ _mixins and _variables .scss $&#10;         * global and shared styles - import in $ App.vue $&#10;         * otherwise this is going to cause duplicates in &lt;head&gt;&#10;         */&#10;        prependData: `&#10;          @import &quot;@/assets/scss/_mixins.scss&quot;;&#10;          @import &quot;@/assets/scss/_variables.scss&quot;;&#10;        `&#10;      }&#10;    }&#10;  }&#10;};&#10;" description="base vue.config.js" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JS_STATEMENT" value="true" />
     </context>
