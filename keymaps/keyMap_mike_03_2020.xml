@@ -83,9 +83,6 @@
     <keyboard-shortcut first-keystroke="ctrl subtract" />
   </action>
   <action id="Images.ShowThumbnails" />
-  <action id="MoveTabRight">
-    <keyboard-shortcut first-keystroke="shift ctrl back_slash" />
-  </action>
   <action id="NewDir">
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
@@ -120,6 +117,9 @@
   </action>
   <action id="SendEOF" />
   <action id="ShelvedChanges.Diff" />
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="shift ctrl back_slash" />
+  </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="ctrl back_slash" />
   </action>
