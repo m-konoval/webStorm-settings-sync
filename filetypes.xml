@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="shared" type="PLAIN_TEXT" />
       <mapping pattern="styles" type="PLAIN_TEXT" />
+      <mapping pattern="modules" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

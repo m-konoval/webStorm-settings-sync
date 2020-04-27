@@ -1,11 +1,11 @@
-<scheme name="_Mike Atom One Dark " version="142" parent_scheme="Darcula">
+<scheme name="_Mike_ Atom One Dark " version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.25" />
   <metaInfo>
-    <property name="created">2020-03-11T14:42:39</property>
+    <property name="created">2020-04-18T14:27:18</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.1.5.0.0</property>
-    <property name="modified">2020-04-16T17:47:27</property>
-    <property name="originalScheme">Atom One Dark copy</property>
+    <property name="modified">2020-04-18T14:30:58</property>
+    <property name="originalScheme">_Mike Atom One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <font>
@@ -52,7 +52,7 @@
     <option name="FILESTATUS_addedOutside" value="98c379" />
     <option name="FILESTATUS_changelistConflict" value="ff6347" />
     <option name="FILESTATUS_modifiedOutside" value="e5c17c" />
-    <option name="GUTTER_BACKGROUND" value="232323" />
+    <option name="GUTTER_BACKGROUND" value="1b1e23" />
     <option name="INDENT_GUIDE" value="37474f" />
     <option name="INFORMATION_HINT" value="282c34" />
     <option name="LINE_NUMBERS_COLOR" value="475f63" />
@@ -3665,7 +3665,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="abb2bf" />
-        <option name="BACKGROUND" value="232323" />
+        <option name="BACKGROUND" value="1b1e23" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
