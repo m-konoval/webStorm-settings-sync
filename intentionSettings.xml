@@ -1,0 +1,12 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="CoffeeScript/Replace Double-Quoted String with Single-Quoted String" />
+    <ignoreAction name="CoffeeScript/Replace Single-Quoted String with Double-Quoted String" />
+    <ignoreAction name="Dart/Quick assist powered by the Dart Analysis Server" />
+    <ignoreAction name="Flow JS/Specify variable type explicitly" />
+    <ignoreAction name="Other/Flip ','" />
+    <ignoreAction name="RegExp/Check RegExp" />
+    <ignoreAction name="VueJS/Extract Vue Component" />
+    <ignoreAction name="XML/Expand Empty Tag" />
+  </component>
+</application>
