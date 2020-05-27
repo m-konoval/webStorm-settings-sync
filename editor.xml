@@ -15,4 +15,8 @@
     <option name="ARE_GUTTER_ICONS_SHOWN" value="false" />
     <option name="SHOW_BREADCRUMBS" value="false" />
   </component>
+  <component name="XmlEditorOptions">
+    <option name="showCssColorPreviewInGutter" value="false" />
+    <option name="showCssInlineColorPreview" value="true" />
+  </component>
 </application>
