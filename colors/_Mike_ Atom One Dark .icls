@@ -1,24 +1,24 @@
 <scheme name="_Mike_ Atom One Dark " version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.25" />
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2020-04-18T14:27:18</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.1.5.0.0</property>
-    <property name="modified">2020-04-18T14:30:58</property>
+    <property name="modified">2020-06-03T17:15:47</property>
     <property name="originalScheme">_Mike Atom One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Consolas" />
-    <option name="EDITOR_FONT_SIZE" value="20" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="20" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
-  <option name="CONSOLE_FONT_SIZE" value="18" />
+  <option name="CONSOLE_FONT_SIZE" value="14" />
   <option name="CONSOLE_LIGATURES" value="true" />
   <option name="CONSOLE_LINE_SPACING" value="1.4" />
   <colors>
@@ -82,7 +82,7 @@
     <option name="VCS_ANNOTATIONS_COLOR_3" value="37474f" />
     <option name="VCS_ANNOTATIONS_COLOR_4" value="39adb5" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="f07178" />
-    <option name="WHITESPACES" value="666666" />
+    <option name="WHITESPACES" value="777777" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="59626f" />
   </colors>
   <attributes>
