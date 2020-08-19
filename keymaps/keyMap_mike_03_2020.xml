@@ -112,6 +112,7 @@
   </action>
   <action id="ResizeToolWindowLeft" />
   <action id="ResizeToolWindowRight" />
+  <action id="Resume" />
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="shift ctrl alt e" />
   </action>
@@ -133,8 +134,14 @@
     <keyboard-shortcut first-keystroke="shift alt y" />
   </action>
   <action id="ToggleBookmark" />
+  <action id="ToggleDistractionFreeMode">
+    <keyboard-shortcut first-keystroke="f9" />
+  </action>
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="f11" />
+  </action>
+  <action id="ToggleZenMode">
+    <keyboard-shortcut first-keystroke="f10" />
   </action>
   <action id="Uml.ShowDiff" />
   <action id="Vcs.Log.ShowDiff" />

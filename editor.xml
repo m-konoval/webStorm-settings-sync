@@ -1,22 +1,10 @@
 <application>
-  <component name="CodeFoldingSettings">
-    <option name="COLLAPSE_IMPORTS" value="false" />
-    <option name="COLLAPSE_DOC_COMMENTS" value="true" />
-  </component>
-  <component name="CodeInsightSettings">
-    <option name="AUTO_POPUP_PARAMETER_INFO" value="false" />
-    <option name="HIGHLIGHT_SCOPE" value="true" />
-  </component>
-  <component name="DaemonCodeAnalyzerSettings" profile="_Mike Copy" />
-  <component name="DefaultFont">
-    <option name="LINE_SPACING" value="1.05" />
-  </component>
   <component name="EditorSettings">
     <option name="ARE_GUTTER_ICONS_SHOWN" value="false" />
     <option name="SHOW_BREADCRUMBS" value="false" />
   </component>
-  <component name="XmlEditorOptions">
-    <option name="showCssColorPreviewInGutter" value="false" />
-    <option name="showCssInlineColorPreview" value="true" />
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
   </component>
 </application>
