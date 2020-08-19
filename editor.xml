@@ -1,7 +1,11 @@
 <application>
+  <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_IMPORTS" value="false" />
+  </component>
   <component name="EditorSettings">
     <option name="ARE_GUTTER_ICONS_SHOWN" value="false" />
     <option name="SHOW_BREADCRUMBS" value="false" />
+    <option name="IS_WHITESPACES_SHOWN" value="true" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
