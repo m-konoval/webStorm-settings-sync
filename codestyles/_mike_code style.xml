@@ -18,7 +18,7 @@
     <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
   </TypeScriptCodeStyleSettings>
   <VueCodeStyleSettings>
-    <option name="SPACES_WITHIN_INTERPOLATION_EXPRESSIONS" value="false" />
+    <option name="UNIFORM_INDENT" value="false" />
     <option name="INTERPOLATION_WRAP" value="5" />
     <option name="INTERPOLATION_NEW_LINE_AFTER_START_DELIMITER" value="false" />
     <option name="INTERPOLATION_NEW_LINE_BEFORE_END_DELIMITER" value="false" />
@@ -59,12 +59,6 @@
       <option name="INDENT_SIZE" value="2" />
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
-    </indentOptions>
-  </codeStyleSettings>
-  <codeStyleSettings language="Vue">
-    <indentOptions>
-      <option name="INDENT_SIZE" value="4" />
-      <option name="TAB_SIZE" value="4" />
     </indentOptions>
   </codeStyleSettings>
 </code_scheme>
