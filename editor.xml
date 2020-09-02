@@ -8,6 +8,7 @@
     <option name="IS_WHITESPACES_SHOWN" value="true" />
   </component>
   <component name="TodoConfiguration">
+    <multiLine>false</multiLine>
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
   </component>
