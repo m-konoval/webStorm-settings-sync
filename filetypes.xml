@@ -1,10 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="modules" type="PLAIN_TEXT" />
-      <mapping pattern="swipe" type="PLAIN_TEXT" />
-      <mapping pattern="shared" type="PLAIN_TEXT" />
-      <mapping pattern="styles" type="PLAIN_TEXT" />
+      <mapping pattern=".analysis_options" type="YAML" />
     </extensionMap>
   </component>
 </application>

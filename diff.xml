@@ -4,8 +4,14 @@
       <entry key="Default">
         <PlaceSettings>
           <option name="ENABLE_SYNC_SCROLL" value="false" />
+          <option name="EXPAND_BY_DEFAULT" value="false" />
         </PlaceSettings>
       </entry>
+    </option>
+    <option name="SHARED_SETTINGS">
+      <SharedSettings>
+        <option name="MERGE_LST_GUTTER_MARKERS" value="false" />
+      </SharedSettings>
     </option>
   </component>
 </application>
