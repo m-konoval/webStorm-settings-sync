@@ -1,4 +1,8 @@
 <keymap version="1" name="keyMap_mike_03_2020" parent="$default">
+  <action id="$Paste">
+    <keyboard-shortcut first-keystroke="shift insert" />
+    <keyboard-shortcut first-keystroke="shift ctrl v" />
+  </action>
   <action id="AceAction">
     <keyboard-shortcut first-keystroke="shift enter" />
   </action>
@@ -38,6 +42,9 @@
   <action id="Diff.ShowSettingsPopup" />
   <action id="Diff.UpdatedFiles" />
   <action id="DuplicatesForm.SendToLeft" />
+  <action id="Editor Paste">
+    <keyboard-shortcut first-keystroke="shift ctrl v" />
+  </action>
   <action id="EditorChooseLookupItemCompleteStatement" />
   <action id="EditorCompleteStatement" />
   <action id="EditorDecreaseFontSize">
@@ -48,6 +55,9 @@
   </action>
   <action id="EditorIncreaseFontSize">
     <keyboard-shortcut first-keystroke="ctrl equals" />
+  </action>
+  <action id="EditorPasteSimple">
+    <keyboard-shortcut first-keystroke="ctrl v" />
   </action>
   <action id="EditorSelectWord" />
   <action id="EditorStartNewLine" />
@@ -103,6 +113,9 @@
     <keyboard-shortcut first-keystroke="alt b" />
   </action>
   <action id="ParameterInfo" />
+  <action id="PasteMultiple">
+    <keyboard-shortcut first-keystroke="shift ctrl insert" />
+  </action>
   <action id="PreviousEditorTab" />
   <action id="QuickChangeScheme">
     <keyboard-shortcut first-keystroke="alt back_slash" />
