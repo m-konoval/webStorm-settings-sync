@@ -1,8 +1,4 @@
 <keymap version="1" name="keyMap_mike_03_2020" parent="$default">
-  <action id="$Paste">
-    <keyboard-shortcut first-keystroke="shift insert" />
-    <keyboard-shortcut first-keystroke="shift ctrl v" />
-  </action>
   <action id="AceAction">
     <keyboard-shortcut first-keystroke="shift enter" />
   </action>
@@ -17,6 +13,9 @@
   </action>
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
+  <action id="AddToFavoritesPopup">
+    <keyboard-shortcut first-keystroke="ctrl alt f" />
   </action>
   <action id="Arrangement.Rule.Edit" />
   <action id="Back">
@@ -43,7 +42,7 @@
   <action id="Diff.UpdatedFiles" />
   <action id="DuplicatesForm.SendToLeft" />
   <action id="Editor Paste">
-    <keyboard-shortcut first-keystroke="shift ctrl v" />
+    <keyboard-shortcut first-keystroke="ctrl v" />
   </action>
   <action id="EditorChooseLookupItemCompleteStatement" />
   <action id="EditorCompleteStatement" />
@@ -57,7 +56,7 @@
     <keyboard-shortcut first-keystroke="ctrl equals" />
   </action>
   <action id="EditorPasteSimple">
-    <keyboard-shortcut first-keystroke="ctrl v" />
+    <keyboard-shortcut first-keystroke="shift ctrl v" />
   </action>
   <action id="EditorSelectWord" />
   <action id="EditorStartNewLine" />
@@ -95,6 +94,9 @@
   </action>
   <action id="Images.ShowThumbnails" />
   <action id="IncrementWindowWidth" />
+  <action id="Javascript.Linters.EsLint.Fix">
+    <keyboard-shortcut first-keystroke="shift alt f" />
+  </action>
   <action id="NewDir">
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
