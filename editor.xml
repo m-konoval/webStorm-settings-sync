@@ -3,7 +3,6 @@
     <option name="COLLAPSE_IMPORTS" value="false" />
   </component>
   <component name="DefaultFont">
-    <option name="FONT_FAMILY" value="Consolas" />
     <option name="LINE_SPACING" value="1.3" />
   </component>
   <component name="EditorSettings">
@@ -27,6 +26,8 @@
         <entry key="yaml" value="true" />
       </map>
     </option>
+    <option name="STRIP_TRAILING_SPACES" value="Whole" />
+    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="CARET_BLINKING_PERIOD" value="400" />
     <option name="ARE_GUTTER_ICONS_SHOWN" value="false" />
     <option name="SHOW_BREADCRUMBS" value="false" />
