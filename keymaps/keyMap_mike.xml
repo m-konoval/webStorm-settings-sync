@@ -1,4 +1,4 @@
-<keymap version="1" name="keyMap_mike_03_2020" parent="$default">
+<keymap version="1" name="keyMap_mike" parent="$default">
   <action id="AceAction">
     <keyboard-shortcut first-keystroke="shift enter" />
   </action>
